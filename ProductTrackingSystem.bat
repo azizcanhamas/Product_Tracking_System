@@ -1,0 +1,1 @@
+java -cp target/Product_Tracking_System-1.0-SNAPSHOT.jar com.mycompany.producttrackingsystem.mainFrame
